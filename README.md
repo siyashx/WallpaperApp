@@ -24,7 +24,7 @@ Abstract Document
     link: Cover image in Firebase storage Categories-> Abstract-> Download Url for image
     
     
-That is all. You can control half of the application from the admin panel.
+That is all. You can control half of the application from the admin panel. 🙌🙌🙌
 
 
 
